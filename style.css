@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  color: #fff1c1;
+  font-size: 25px;
+}
+
+body {
+background-color: #293462;
+}
+
+.header {
+	color: #fff1c1;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+.buttons {
+	background-color: #fff1c1;
+	height: 30px;
+	width: 200px;
+	border-radius: 3px;
+	border: none;
+	color: #293462;
+	font-size: 18px;
+}
+
+.button {
+	height: 31px;
+	width: 150px;
+	border-radius: 3px;
+	border: none;
+	color: #293462; font-size: 18px; font-family: 'Moon Dance';
+	background-color: #fff1c1;
+}
